@@ -8,8 +8,8 @@ This project is designed to automate the data collection process from basketball
 
 ---
 ## Features
-- *Automated Navigation:* Efficiently crawls through multi-page directories to find specific game or player IDs.
-- *Customizable Filters:* Allows users to target specific seasons, leagues, or date ranges for more refined data extraction.
+- *Automated Navigation:* Efficiently crawls through multi-page directories to find specific game.
+- *Customizable Filters:* Allows users to target specific years for more refined data extraction.
 - *Data Export:* Seamlessly compiles gathered links into structured formats for easy integration into secondary scraping scripts.
 - *Error Handling:* Includes robust exception handling to manage site timeouts or structural changes in the target website.
 - *Headless Execution:* Optimized to run in the background without requiring a visual browser window.

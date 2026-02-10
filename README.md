@@ -42,7 +42,7 @@ python main.py
 ---
 ## Usage
 - Before running, ensure you have the appropriate WebDriver (e.g., ChromeDriver) installed and added to your system path.
-- **Run with specific year: (default is 2025)**
+- **Run with specific year: (default = 2025)**
   ```bash
   python main.py --year=2025
   

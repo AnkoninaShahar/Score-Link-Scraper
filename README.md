@@ -47,3 +47,4 @@ python main.py
   python main.py --year=2025
   
   ```
+- **Output:** Saves links in a folder for a given year in individual text files for each month
